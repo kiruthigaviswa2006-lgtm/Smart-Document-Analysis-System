@@ -53,3 +53,29 @@
 2026-07-06 17:46:12,349 | WARNING | Low confidence (9.09%) for wallpaper.jpeg
 2026-07-06 17:46:12,356 | INFO | CSV Report Generated Successfully
 2026-07-06 17:46:12,356 | INFO | Document Analysis Completed Successfully
+2026-07-08 10:37:12,741 | INFO | Application Started
+2026-07-08 10:37:12,799 | INFO | Scanning input_documents folder completed
+2026-07-08 10:37:12,799 | INFO | Processing file: employee salary,docx.docx
+2026-07-08 10:37:12,799 | INFO | Extracting text from employee salary,docx.docx
+2026-07-08 10:37:12,802 | INFO | Cache Miss
+2026-07-08 10:37:12,848 | INFO | Text extracted successfully from employee salary,docx.docx
+2026-07-08 10:37:12,863 | INFO | employee salary,docx.docx classified as Pay Slip with confidence 46.91%
+2026-07-08 10:37:12,864 | INFO | Processing file: invoice 2026.pdf
+2026-07-08 10:37:12,864 | INFO | Extracting text from invoice 2026.pdf
+2026-07-08 10:37:12,864 | INFO | Cache Miss
+2026-07-08 10:37:12,888 | INFO | Text extracted successfully from invoice 2026.pdf
+2026-07-08 10:37:12,890 | INFO | invoice 2026.pdf classified as Invoice with confidence 41.87%
+2026-07-08 10:37:12,891 | INFO | Processing file: office notice.txt
+2026-07-08 10:37:12,891 | INFO | Extracting text from office notice.txt
+2026-07-08 10:37:12,892 | INFO | Cache Miss
+2026-07-08 10:37:12,893 | INFO | Text extracted successfully from office notice.txt
+2026-07-08 10:37:12,894 | INFO | office notice.txt classified as Administrative Documents with confidence 13.88%
+2026-07-08 10:37:12,894 | WARNING | Low confidence (13.88%) for office notice.txt
+2026-07-08 10:37:12,895 | INFO | Processing file: student_marks.xlsx
+2026-07-08 10:37:12,895 | INFO | Extracting text from student_marks.xlsx
+2026-07-08 10:37:12,896 | INFO | Cache Miss
+2026-07-08 10:37:13,984 | INFO | Text extracted successfully from student_marks.xlsx
+2026-07-08 10:37:13,987 | INFO | student_marks.xlsx classified as Pay Slip with confidence 14.27%
+2026-07-08 10:37:13,987 | WARNING | Low confidence (14.27%) for student_marks.xlsx
+2026-07-08 10:37:14,005 | INFO | CSV Report Generated Successfully
+2026-07-08 10:37:14,005 | INFO | Document Analysis Completed Successfully
